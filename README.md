@@ -2,6 +2,12 @@
 
 ---
 
+## 🌐 What is REST API?
+
+**REST API** (Representational State Transfer Application Programming Interface)  
+is a standardized way for different software systems  
+**to communicate over the web using HTTP protocols** (`GET`, `POST`, `PUT`, `DELETE`).
+
 ## 📦 Project Initialization
 
 ```bash
